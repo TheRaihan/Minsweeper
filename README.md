@@ -1,0 +1,2 @@
+# Minsweeper
+Minesweeper is 2D arcade, board game in which player has to guess in which of the cell of the grid is not a mine. If it's a mine then it's game over. If it's not he/she gets a point. If a cell does not contains either a mine or a point it is considered to be blank. When a player clicks on blank cell, the adjacent blank cells gets revealed recursively(Which apparently uses a algorithm named flood fill.  I used processing to made this program which uses java as a core language;
